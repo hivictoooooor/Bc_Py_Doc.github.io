@@ -1,6 +1,6 @@
 # BlockChain via Python Documentation
 
-Project conducted by [Qinren](http://www.qinren.tech/xin.html).
+[Qinren](http://www.qinren.tech/xin.html).
 
 ## Introduction
 
